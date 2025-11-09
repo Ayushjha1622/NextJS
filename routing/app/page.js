@@ -1,4 +1,10 @@
 import Link from "next/link";
+
+export const metadata = {
+  title: "Home | Technical Agency"
+}
+
+
 export default function Home() {
   return (
     <>
